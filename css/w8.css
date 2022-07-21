@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: "roboto";
+}
+header{
+    width: 100%;
+    background: #EEEFF1;
+}
+.maina{
+    width: 100%;
+    background: #EEEFF1;
+}
+.container{
+    max-width: 1150px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.list{
+    margin: 0;
+    padding: 79px 0;
+}
+.list li{
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 0 20px 0 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+.list a:hover{
+    transform: scale(1.2);
+    color: #34547A;
+}
+.list li a{
+    text-decoration: none;
+    color: #000000;
+}
+.head_content{
+    max-width: 540px;
+    width: 100%;
+    padding: 0 0 141px 0;
+}
+.head_content h1{
+    margin:0 0 60px 0;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 79px;
+}
+.head_content p{
+    padding: 0 0 65px 0;
+    margin: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.head_content a{
+    display: block;
+    text-decoration: none;
+    background: #34547A;
+    color: #fff;
+    width: 225px;
+    padding: 30px 0;
+    text-align: center;
+}
+.head_content a:hover{
+    box-shadow: 0 0 2px black;
+}
+.about{
+    max-width: 540px;
+    margin: 0 auto;
+    background: #fff;
+    text-align: center;
+}
+.about h2{
+    margin: 0;
+    padding: 112px 0 50px 0;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+}
+.about p{
+    margin: 0;
+    padding: 0 0 100px 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.div_ul{
+    background: #34547A;
+}
+.list_two{
+    list-style: none;
+    padding: 80px 0;
+    margin: 0;
+    color: #fff;
+}
+.list_two li{
+    display: inline-block;
+    padding: 0 45px 0 0;
+}
+.img{
+    display: inline-block;
+    padding: 0 20px 0 0;
+}
+.ph{
+    margin: 16px 0 0 0;
+}
+.phh{
+    margin: 0 0 16px 0;
+}
+.p{
+    display: inline-block;
+    margin: 0;
+}
+.last{
+    background: #EEEFF1;
+}
+.about_two{
+    max-width: 540px;
+    margin: 0 auto;
+    background: #EEEFF1;
+    text-align: center;
+}
+.about_two h3{
+    margin: 0;
+    padding: 100px 0 50px 0;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+}
+.about_two p{
+    margin: 0;
+    padding: 0 0 57px 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.video{
+    background: #EEEFF1;
+    padding: 0 0 100px 0;
+}
+iframe{
+    margin: 0 auto;
+}
+.footer{
+    background: #34547A;
+    color: #fff;
+}
+.footer h4{
+    padding: 50px 0 20px 0;
+    margin: 0;
+}
+.footer p{
+    padding: 0 0 50px 0;
+    margin: 0;
+}
